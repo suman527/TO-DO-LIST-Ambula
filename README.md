@@ -27,5 +27,5 @@ Start managing your tasks efficiently!
 Demo:
 Live Demo - Insert the link to your live demo once you have deployed the app.
 
-Contributing:
+Contributing: https://todo-list-evamalinina.vercel.app/
 Contributions are welcome! If you have any ideas for improvement or find any issues, feel free to open an issue or submit a pull request.
